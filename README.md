@@ -1,6 +1,6 @@
 # IGME-110-Repo
 # Yakzua: Kiwami
-## Kazuma Kiryu
+## Goro Majima
 ---
 - Nuka-Cola
 -  Milk
